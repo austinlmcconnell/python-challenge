@@ -1,4 +1,6 @@
 # python-challenge
+
+**NOTE: FINAL homework files are located in the newest "python-challenge" folder**
 PyBank:
 Resources Used:
   1. AskBCS suggested I use "os.path.abspath(os.path.join(...))" to open the CSV file, as I was repeatedly running into a "file not found" issue.
